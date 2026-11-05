@@ -90,7 +90,6 @@ const PAGE_TRANSLATIONS = {
     {"selector":".portfolio-tile:nth-child(1) .portfolio-tag","es":"Sitio web · App · Panel de administración","en":"Website · App · Admin panel"},
     {"selector":".portfolio-tile:nth-child(1) p","es":"Reserva de clases, calendario y gestión de clientes para una instructora de pilates a domicilio.","en":"Class booking, calendar and client management for an in-home pilates instructor."},
     {"selector":".portfolio-tile:nth-child(1) .portfolio-links .btn-primary","es":"Ver proyecto","en":"View project"},
-    {"selector":".portfolio-tile:nth-child(1) .portfolio-links .btn-ghost","es":"Ver código","en":"View code"},
     {"selector":".portfolio-tile:nth-child(2) .portfolio-tag","es":"Próximamente","en":"Coming soon"},
     {"selector":".portfolio-tile:nth-child(2) h3","es":"Tu proyecto aquí","en":"Your project here"},
     {"selector":".portfolio-tile:nth-child(2) p","es":"Soy el siguiente caso de éxito: cuéntame tu idea y la construimos juntos esta misma semana.","en":"I am the next success story: tell me your idea and we build it together this week."},
